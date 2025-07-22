@@ -96,4 +96,4 @@ This project is open-source under the MIT License.
 🙋‍♂️ Author
 Built by Varun M Bharadwaj
 Guided by AI (ChatGPT 😄)
-GitHub: github.com/your-github (Update your link here)
+GitHub: github.com/V-M-B/Mental-Health-chat-Bot
